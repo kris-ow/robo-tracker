@@ -1,0 +1,17 @@
+{
+  "name": "robo-tracker",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Scrape unsupervised Tesla Robotaxi counts by city from robotaxitracker.com and emit JSON for the TTT dashboard.",
+  "scripts": {
+    "scrape": "node src/index.js",
+    "recon": "node src/recon.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "playwright": "^1.50.0"
+  }
+}
