@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-04-29T12:09:46.080Z",
+  "fetched_at": "2026-04-29T20:06:24.271Z",
   "source": "https://robotaxitracker.com/",
-  "total_unsupervised": 19,
+  "total_unsupervised": 20,
   "cities": [
     {
       "city": "Austin",
-      "unsupervised": 15
+      "unsupervised": 16
     },
     {
       "city": "Dallas",
